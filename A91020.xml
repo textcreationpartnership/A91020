@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Charles proclaimed King, and landed in Jersey with the Duke of York, and a list of the Lords, Knights and gentlemen of quallity arrived there with His Hignes, and His design touching the west of England. Also His entertainment by the Lord Jermane who is made governour of the Island, with the Lord Hopton and 300. other persons of note, that were convoyed by a statesmen of warre with the Duke of Yorks declaration touching his brother the declared King. And his Highnesses message to the King of France, and a present of one hundred thousand crownes sent him by the Cardinall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91020</idno>
+            <idno type="STC">Wing P3483</idno>
+            <idno type="STC">Thomason E573_21</idno>
+            <idno type="STC">ESTC R206264</idno>
+            <idno type="EEBO-CITATION">99865436</idno>
+            <idno type="PROQUEST">99865436</idno>
+            <idno type="VID">165402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Charles proclaimed King, and landed in Jersey with the Duke of York, and a list of the Lords, Knights and gentlemen of quallity arrived there with His Hignes, and His design touching the west of England. Also His entertainment by the Lord Jermane who is made governour of the Island, with the Lord Hopton and 300. other persons of note, that were convoyed by a statesmen of warre with the Duke of Yorks declaration touching his brother the declared King. And his Highnesses message to the King of France, and a present of one hundred thousand crownes sent him by the Cardinall.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.J. and are to be sold at Temple-Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>James --  II, --  King of England, 1685-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Jersey (Channel Islands) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165402:1" rendition="simple:additions"/>
+            <p>PRINCE CHARLES PROCLAIMED KING, <hi>AND</hi> Landed in <hi>Jerſey</hi> with the Duke of YORK, and a liſt of the Lords, Knights and Gentlemen of quallity arrived there with his Highnes, and his deſign touching the Weſt of <hi>ENGLAND.</hi>
+            </p>
+            <p>ALSO His entertainment by the Lord JERMANE who is made Governour of the Iſland, with the Lord Hopton and 300. other perſons of note, that were convoyed by 2. Stateſ<g ref="char:EOLhyphen"/>men of Warre WITH The Duke of <hi>Yorks</hi> Declaration touching his brother the Decla<g ref="char:EOLhyphen"/>red King. And his Highneſſes Meſſage to the King of <hi>France,</hi> and a preſent of one hundred thouſand Crownes ſent him by the Cardinall</p>
+            <p>
+               <hi>London Printed for</hi> J. J. <hi>and are to be ſold at Temple-Barre.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165402:2"/>
+            <pb n="1" facs="tcp:165402:2"/>
+            <head>The landing of PRINCE CHARLES, And the Duke of YORKE IN The Iſle of <hi>Jerſey,</hi> with the Lord <hi>Hop<g ref="char:EOLhyphen"/>ton,</hi> and 300. other Lords, Knights and Gentlemen, convoyd by 2, Stateſ-men of WARRE.</head>
+            <p>THe Prince of <hi>Wales</hi> ſince his long and tedious journey from his Native Country, hath with his Councell at St. <hi>Germans</hi> in <hi>France</hi> (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouching the next place of his arri<g ref="char:EOLhyphen"/>vall) had ſeverall conſultations, (having ſtaid there lon<g ref="char:EOLhyphen"/>ger then welcome) after which conſultations he with his bro<g ref="char:EOLhyphen"/>the Duke of <hi>York,</hi> the Lord <hi>Hopton,</hi> and 300 other Gentlemen of quallity betook themſelves to hover for a time at Sea, intending for <hi>Jerſey,</hi> where they are (as the newes is come) for certaine landed, being convoyed thither by two Stateſmen of War, of 35 peeces of Ordnance. Its conceived their intention and Reſo<g ref="char:EOLhyphen"/>lution
+<pb n="2" facs="tcp:165402:3"/> is to be ſpeedily in Ireland, and farther after they ſhall ſee cauſe.</p>
+            <p>From Dublin. Letters ſay that the Lord Lieutennant is marched with his whole Army toward Trehah, it being firſt to be attached, the Governour thereof being Sir Arthur Aſhton, formerly Governour of Reading, an old Souldier, &amp; one famous for making good towns and did one once againſt the King of Sweden to his ad<g ref="char:EOLhyphen"/>miration, this town is fortified as well as his, and as all the Ingineers Ormond had could do it.</p>
+            <p>The cheef Governour muſt beſiege it on both ſides the water, whether he ſtorm it as was his uſuall way in England, or make a fotmal ſiege by i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trenching and ap<g ref="char:EOLhyphen"/>proaches time will ſhew, its mineaqle in moſt places, the ſudden and eaſie carrying this place wil faciliate the whole worke, if this prove hard, the reſt it like to come of ſo, If any ask why North not South firſt, its anfwe<g ref="char:EOLhyphen"/>red, that there is good reaſon for it, for the better acco<g ref="char:EOLhyphen"/>modation by Sea, who will keepe out any thing from the beſieged, and furniſh the beſiegers with food, as to ſerve them with Biske, Beer; &amp;c.</p>
+            <p>
+               <hi>Sir,</hi> Our Armies being at preſent not enged as we can hear I can inform you but little more for matter of News, only, we have for certaine, that ſince the advance of the Lord Leiutenant <hi>Crumwell,</hi> divers come from <hi>Inchiqueene,</hi> and that Col. <hi>Went<g ref="char:EOLhyphen"/>worth</hi> is come with 50 horſe and men, and there hath benn the like attempt at <hi>Drorhedah,</hi> but not ſo good ſucceſſe ſome being taken and executed.</p>
+            <p>A Letter from <hi>Cheſter Sept.</hi> 9. Sir, In my laſt <hi>I</hi> gave you the glad tydings of the Lord Governours landing in <hi>Ireland,</hi> ſince which we have not been acq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted with much action in thoſe parts; but the beſt news at preſent as we hear is the return of ſome ſhips from <hi>Dublin</hi> ſince the landing of the Lord Leiutenant
+<pb n="3" facs="tcp:165402:3"/> who ſpecify, that the Lord Governour marched on Satturday laſt from <hi>Dublin,</hi> its generally beleeved he is marched towards Tredah, and the Letters ſay, They hope it is taken by this time, and that they queſtion not but that before this comes, to hand their will be ſome action, and further ſay that they do not beleive the enemies ſtrength ſo great as they bragg off.</p>
+            <p>We alſo hear that divers of Prince <hi>Ruperts</hi> men do often deſert him ſo that he hath not Seamen with him, to man above 3 of his beſt ſhips, But there are not yet come any letters from our Navy before <hi>Kingſale.</hi> ſince the late great winds</p>
+            <p>By Letters from <hi>Scotland,</hi> it was this day certified, That ſome <hi>Dan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> ſhips paſſed by the Iſlands of <hi>Orkney,</hi> towards <hi>Ireland,</hi> and Iſle of <hi>Pha<g ref="char:EOLhyphen"/>roe,</hi> one of the ſhips belonging to the Parl. of <hi>England</hi> chaſed them, &amp; ſome of them ran on the Coaſts of <hi>Scotland.</hi> That on thoſe Coaſts in <hi>Scotland,</hi> ly 2 Armies, one for the <hi>Kirk,</hi> and one for the State, who look for the landing of Forces from <hi>Montroſſe,</hi> whom they heare is gathe<g ref="char:EOLhyphen"/>ring of Forces in <hi>Denmark</hi> and <hi>Sweaden,</hi> by himſelf and his Agents to come againſt them, yet ſome of the <hi>Scots</hi> Souldiers were very abuſive.</p>
+            <p>From <hi>Yarmouth</hi> came thus, that Captaine <hi>Coppin</hi> with the <hi>Greyhound</hi> ſet at liberty a veſſel that had been taken by 4 <hi>Dunkerk</hi> men of Warre, who after turning out all het men, puting only 5 into her, were ſending her to <hi>Oſtend,</hi> he alſo chaſed an <hi>Iriſh</hi> Frigot a long time, but the wind being extream high, and the ſtorme increaſing he was forced ſo let fall all his ſales, or he had been over ſet, but he ſee her hover on the ſands, and its thought ſhe got not off againe. This day we had Intelligence that the Garriſon of <hi>Oxford</hi> was in ſome diſtemper being ſeduced, partly by the diſcontented people of the Levelling faction, and partly by the Cavaliers who drive on their intereſt by complying and fomenting their diſcon<g ref="char:EOLhyphen"/>tents. The Souldiers there have drawn up certaine Propoſals, The ſub<g ref="char:EOLhyphen"/>ſtance is, for a new Repreſentative, &amp;c. Theſe men are now quell'd, and the houſe having notice thereof, and that certain Agents from London are apprehended, who had blown up the min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of theſe poore ſouls in<g ref="char:EOLhyphen"/>to thoughts of being reſtorers of their Country, who know how to ſettle the Nation better then ever it was, theſe are to be called to account, and proceeded againſt, and a Declaration ſpeedily to goe forth for to un<g ref="char:EOLhyphen"/>deceive.</p>
+            <pb n="4" facs="tcp:165402:4"/>
+            <p>The Souldiers <hi>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Oxford (as we are informed by letters from thence have drawn up eight Propoſals to this effeſh <hi>viz.</hi> for the chuſing of a new Repreſentative and diſolving this, and for electing Agitators. They keep Guards and ſtop paſſenger<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, ſome talk of parties in other places rea<g ref="char:EOLhyphen"/>dy to back them, and their is o Letter intercepted going <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tom a priſone- in the Fleete to the Lorn <hi>Cottingtor,</hi> wherein he relates that all the hoper of that party depends upon the ſeeming complyance of his Majeſty ſeems ing complyance with the Levelling party, without whom it is impoſſi<g ref="char:EOLhyphen"/>ble for any of his party here to prove ſerviceable, unleſſe upon their prin<g ref="char:EOLhyphen"/>ciples, he writes, That the Kings friends increaſe dayly, but have no poſſibility of acting unleſſe the Levellers lead the way.</p>
+            <p>This afternoone Col. <hi>Tomblinſou</hi> and Col. <hi>Eugliſby</hi> were diſpatched towards <hi>Oxford.</hi>
+            </p>
+            <p>From high <hi>Wickam</hi> we underſtand, that ſome turbulent ſpirits affron<g ref="char:EOLhyphen"/>ted the Mayor who impriſoning ſome of them, with other of their con<g ref="char:EOLhyphen"/>fede ates broke the priſon, and after came dairing the mayor to his face,</p>
+            <p>
+               <hi>Sunday Sept</hi> 9. The book of Common Prayer was read at <hi>Petert Pauls</hi> Whar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by one <hi>Williams,</hi> who not long ſince was required to for<g ref="char:EOLhyphen"/>bear by the Lord Mayor, yet ſtill perſiſted in that courſe, for which he was carried away by a Troop of horſe, without doing any injury to his perſon, though ſome others were hurt in the action.</p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Derby</hi> 
+                     <date>
+                        <hi>Sept.</hi> 9. 1649.</date>
+                  </dateline>
+               </opener>
+               <p>THe Miners of this County ſeeme much diſcontented at ſome procee<g ref="char:EOLhyphen"/>dings of Parl. and eſpecilly in their own buſines, they have had this weeke ſeverall meetings, and we are informed to draw up a Declaration againſt the preſent Authority, upon publication whereof they intend to be ready to maintain with their lives and fortunes, and likewiſe the A<g ref="char:EOLhyphen"/>greement of the people. And if this fire ſhould unhappyly break out, I fear it would not be eaſily quenched, but prove to the ruin of the whole Na<g ref="char:EOLhyphen"/>tion, which the Lord prevent, and incline the hearts of all to juſtice, love and peace.</p>
+               <p>
+                  <hi>Windſor Sept.</hi> 10. The Major of <hi>Wickam</hi> complained lately to the Go<g ref="char:EOLhyphen"/>vernour of this Caſtle againſt ſome of the Souldiers, that offered many incivillities, and high affronts to him; ſome whereof he had but the day before committed, and the priſon door broke open by the Levellers com<g ref="char:EOLhyphen"/>ing that way, The Governour reſolved, and hath promiſed him all the aſſiſtance he can againſt them if they come the next Market day; and then it is poſſible they will be ſnapt.</p>
+               <pb n="5" facs="tcp:165402:4"/>
+               <p>FRom <hi>Oxford</hi> came thus; <hi>Sir,</hi> The Levelling party doth much reſort <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o theſe quarters, ſince this Garriſon hath revolted from the Parliament, Horſe and foot come in night and day in great numbers, but we hear that will be ſoone prevented by ſome of the Asmies horſe, that are appointed to ſtraighten their quarters. Their Councell conſiſted moſt of private ſouldiers at firſt, but ſince ſome head-peeces are come from <hi>London</hi> to joyn with them, They talk of other Garriſons that will joyn with them, and that they doubt not but to have an offenſive Field Army before ſix weeks be ended, we heare they are framing a Remonſtrance for the recove<g ref="char:EOLhyphen"/>ry of <hi>Englands</hi> loſt freedoms, and for eaſe of the people from Burthens and oppreſſions, for obtaining whereof (they ſay) they are reſolved, to hazard their lives and Fortunes.</p>
+               <p>There came further this day that the Souldiery have ſeized on the 4. Gentlemen ſent down to appeaſe them, and that Col. <hi>Inglesby</hi> himſelf is ſecured by his own Souldiers in <hi>Oxon,</hi> but of this little certain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</p>
+               <p>From <hi>Scotland</hi> we here little of News, only the Committee of Eſtates are ſtill at St. <hi>Johnſtons,</hi> The King and they can make nothing yet upon their Treaty, the one working upon the others late defeat and the other thinking him ſtronger and more populouſly affected then ever, and upon the leaſt turning any of the three Nations ſhall have as little need of their aſſiſtance as they of his affections.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A Letter from Cheſter</head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <g ref="char:V">Ʋ</g>Pon the ſight of your laſt, da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed the <hi>28.</hi> of the forgoing month, wherein I received ſo many extraordinary engagements, and courtiſies from you I thought good to anſwer your deſires (therein mentioned) with the beſt n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wes for preſent, which is thus, <hi>viz.</hi> That from Dublin we hear that ſince the ad<g ref="char:EOLhyphen"/>vance of the <hi>Lord Lieut.</hi> they heare that Inchiqueen is not w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h O m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd but only the Lord A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and Ormond are together much fearing Owen R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e ſhould fall in their rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, And further are informed that there hath been ſome actio<g ref="char:EOLunhyphen"/>on between a party of the Lord Leiut. and Ormonds near D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>gh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>da, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> man<g ref="char:EOLhyphen"/>ner thus, a ſquadron of our horſe b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing ſent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ut to diſcover the enemy met (in a narrow paſſage with a party of the en my, who though more i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> number then themſelves, yet they reſolved to charge them, and at the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt the enemy came on with ſuch fury as they were confident of a victory, yet our men wh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> ng a<g ref="char:EOLhyphen"/>bout c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me on with ſuch reſolution that forced them to retreat, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ea<g ref="char:EOLhyphen"/>gernes provd their deſteny, in which diſpute <hi>6</hi> of their men were kild onely <hi>3.</hi> of ours received ſome ſmall h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt, and as we heare, brought of ſome of thei s priſoners, by my next I am co fid nt I ſhall give you a better accoun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e proceedings of our A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>my, and of their ſucc ſſe at D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oghedah.</p>
+                  </body>
+               </floatingText>
+               <pb n="6" facs="tcp:165402:5"/>
+               <p>The Committee of Eſtates are not yet come from St. Iohn<g ref="char:EOLhyphen"/>ſtones, and ſo the Letter not yet ſent to our declared King, we ſhall not be to haſty in ſending, becauſe we exſpect a ſpeedy an<g ref="char:EOLhyphen"/>ſwer, and a good: The baniſhed out of the North of Ireland, (whom my Lord of Ards &amp;c. would give mony and more to have againe) come hither, are to be reduced into ſix companies, who alſo will be diſpoſed for defence, and its but need, in re<g ref="char:EOLhyphen"/>gard of the alterations in Ireland. We ſhall paſſe the Winter merrily, and quietly, merrily in regard we ſhall have French Wines at as cheap price as Scotch Ale to you; quietly, becauſe we have no enemy within: We have nothing to bewaile, but the generall violation of moſt of the Commandements of the ſecond table, notwithſtanding our Miniſters preaching, our publicke ſhames impoſed upon offendors by the Church, and ſevere lawes that ſhould, and generally are put in execution by the Magiſtrates.</p>
+               <p>It is Ceported that at the landing of the Prince tnd Duke with the reſt they were entertained with many expreſſions of joy [(from the Lord <hi>Iermaine</hi>)] for his ſafe arrivill, which queſtionleſſe they will ſuddenly they will ſoone be weary of.</p>
+               <p>We here further that their deſign is to Proclaim Prince Charls King and to Crown him in Jerſey and after to reduce Dakmouth or ſome ſuch place in the Weſt, in expectation of a generall ryſing.</p>
+               <p>From France we hear the Duke of York came hither on Thurſday laſt and the nexh day was reviſited by our King, and the Cardinall, whom he moſt humbly deſired to have compaſſion on his brother the King, and to give all the aide h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could for regaining his Kingdoms, whereto the Cardinall made anſwer it could not be now, but when they were in ca<g ref="char:EOLhyphen"/>pacity they would ſpare neither purſe nor power, but deſired him to ac- of a ſmall preſent of 10000 Crowns in the mean timr.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
